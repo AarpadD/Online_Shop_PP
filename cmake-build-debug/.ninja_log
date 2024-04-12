@@ -1,0 +1,7 @@
+# ninja log v5
+0	128	1712920871134586898	CMakeFiles/OnlineShop.dir/main.c.o	164042b2e997f4b4
+1	128	1712920871136186739	CMakeFiles/OnlineShop.dir/commands.c.o	15849660602d3fd6
+1	128	1712920871134956441	CMakeFiles/OnlineShop.dir/files_io.c.o	a445933b4e1e1ef3
+128	221	1712920871228311506	OnlineShop	83b82d602dbe80ba
+1	203	1712921025428931355	CMakeFiles/OnlineShop.dir/files_io.c.o	a445933b4e1e1ef3
+203	316	1712921025541778954	OnlineShop	83b82d602dbe80ba
