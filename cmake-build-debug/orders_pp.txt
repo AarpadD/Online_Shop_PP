@@ -1,0 +1,3 @@
+558,Arina,Teodorescu,2,110.59
+Pineapple Plant,1,25.00
+Lemon Tree,1,85.59

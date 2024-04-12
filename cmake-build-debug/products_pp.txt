@@ -1,2 +1,5 @@
-Ficus Bonsai,20,120.00
+Ficus Bonsai,19,120.00
 Pine Bonsai,14,220.00
+Serissa Bonsai,14,320.00
+Pineapple Plant,4,25.00
+Lemon Tree,6,85.59
